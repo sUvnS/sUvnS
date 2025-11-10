@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/be3f12c50f424e4358e7addd0c78674d5d9294b2ac5a487e7ffacc7109dab7a3.webp" width="600"/>
+    <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/be3f12c50f424e4358e7addd0c78674d5d9294b2ac5a487e7ffacc7109dab7a3.webp" width="800"/>
 </div>
 
 ---
